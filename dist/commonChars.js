@@ -1,4 +1,3 @@
-"use strict";
 //https://leetcode.com/problems/find-common-characters/description/
 function commonChars(words) {
     let dups = words[0].split("");
@@ -10,4 +9,4 @@ function commonChars(words) {
     });
     return dups;
 }
-module.exports = commonChars;
+export default commonChars;
