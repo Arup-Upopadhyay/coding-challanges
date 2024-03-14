@@ -1,5 +1,4 @@
-"use strict";
-//https://leetcode.com/problems/remove-outermost-parentheses/description/
+//https://leetcode.com/problems/remove-outermost-parentheses/
 function removeOuterParentheses(s) {
     const pransArr = [];
     let output = "";
@@ -19,3 +18,4 @@ function removeOuterParentheses(s) {
     }
     return output;
 }
+export default removeOuterParentheses;
