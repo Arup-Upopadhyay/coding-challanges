@@ -11,3 +11,5 @@ function commonChars(words: string[]): string[] {
   });
   return dups;
 }
+
+module.exports = commonChars;

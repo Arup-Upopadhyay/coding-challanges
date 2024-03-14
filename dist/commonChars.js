@@ -10,3 +10,4 @@ function commonChars(words) {
     });
     return dups;
 }
+module.exports = commonChars;
