@@ -1,7 +1,7 @@
 import countMatches from "../dist/countMatches";
 
-describe("TEST", () => {
-  test("test one", () => {
+describe("Testing countMatches", () => {
+  test("Sample one", () => {
     const items = [
       ["phone", "blue", "pixel"],
       ["computer", "silver", "lenovo"],
@@ -14,7 +14,7 @@ describe("TEST", () => {
     expect(result).toEqual(expectedResult);
   });
 
-  test("test one", () => {
+  test("Sample Two", () => {
     const items = [
       ["phone", "blue", "pixel"],
       ["computer", "silver", "phone"],

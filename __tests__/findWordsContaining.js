@@ -1,7 +1,7 @@
 import findWordsContaining from "../dist/findWordsContaining";
 
 describe("Test findWordsContaining", () => {
-  test("test one", () => {
+  test("Sample one", () => {
     const words = ["leet", "code"];
     const x = "e";
     const result = findWordsContaining(words, x);
@@ -9,7 +9,7 @@ describe("Test findWordsContaining", () => {
     expect(result).toEqual(expectedResult);
   });
 
-  test("test two", () => {
+  test("Sample two", () => {
     const words = ["abc", "bcd", "aaaa", "cbc"];
     const x = "a";
     const result = findWordsContaining(words, x);
