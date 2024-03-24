@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1711246662896" clover="3.2.0">
-  <project timestamp="1711246662896" name="All files">
-    <metrics statements="77" coveredstatements="73" conditionals="34" coveredconditionals="29" methods="23" coveredmethods="23" elements="134" coveredelements="125" complexity="0" loc="77" ncloc="77" packages="1" files="13" classes="13"/>
+<coverage generated="1711251135138" clover="3.2.0">
+  <project timestamp="1711251135138" name="All files">
+    <metrics statements="101" coveredstatements="96" conditionals="46" coveredconditionals="41" methods="25" coveredmethods="25" elements="172" coveredelements="162" complexity="0" loc="101" ncloc="101" packages="1" files="14" classes="14"/>
     <file name="JewelsInStones.js" path="/home/arup/SandBox/Web/git-repos/sandbox/nodejs-leetcode/dist/JewelsInStones.js">
       <metrics statements="2" coveredstatements="2" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
       <line num="3" count="2" type="stmt"/>
@@ -106,6 +106,33 @@
       <line num="4" count="9" type="stmt"/>
       <line num="5" count="9" type="stmt"/>
       <line num="7" count="3" type="stmt"/>
+    </file>
+    <file name="threeSum.js" path="/home/arup/SandBox/Web/git-repos/sandbox/nodejs-leetcode/dist/threeSum.js">
+      <metrics statements="24" coveredstatements="23" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="14" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="12" type="cond" truecount="4" falsecount="0"/>
+      <line num="9" count="4" type="stmt"/>
+      <line num="10" count="8" type="stmt"/>
+      <line num="11" count="8" type="stmt"/>
+      <line num="12" count="8" type="stmt"/>
+      <line num="13" count="9" type="stmt"/>
+      <line num="14" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="4" type="stmt"/>
+      <line num="17" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="21" count="3" type="stmt"/>
+      <line num="22" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="24" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="0" type="stmt"/>
+      <line num="26" count="3" type="stmt"/>
+      <line num="27" count="3" type="stmt"/>
+      <line num="31" count="3" type="stmt"/>
     </file>
     <file name="twoSum.js" path="/home/arup/SandBox/Web/git-repos/sandbox/nodejs-leetcode/dist/twoSum.js">
       <metrics statements="8" coveredstatements="7" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
