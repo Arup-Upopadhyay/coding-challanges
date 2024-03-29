@@ -1,5 +1,5 @@
 TN:
-SF:dist/JewelsInStones.js
+SF:dist\JewelsInStones.js
 FN:2,numJewelsInStones
 FN:3,(anonymous_1)
 FNF:2
@@ -16,7 +16,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:dist/arrayStringsAreEqual.js
+SF:dist\arrayStringsAreEqual.js
 FN:1,arrayStringsAreEqual
 FNF:1
 FNH:1
@@ -28,7 +28,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:dist/commonChars.js
+SF:dist\commonChars.js
 FN:2,commonChars
 FN:4,(anonymous_1)
 FN:5,(anonymous_2)
@@ -51,7 +51,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:dist/countMatches.js
+SF:dist\countMatches.js
 FN:2,countMatches
 FN:3,(anonymous_1)
 FN:4,(anonymous_2)
@@ -86,7 +86,7 @@ BRF:8
 BRH:7
 end_of_record
 TN:
-SF:dist/defangIPaddr.js
+SF:dist\defangIPaddr.js
 FN:1,defangIPaddr
 FNF:1
 FNH:1
@@ -98,7 +98,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:dist/finalValueAfterOperations.js
+SF:dist\finalValueAfterOperations.js
 FN:1,finalValueAfterOperations
 FN:3,(anonymous_1)
 FNF:2
@@ -130,7 +130,7 @@ BRF:8
 BRH:5
 end_of_record
 TN:
-SF:dist/findWordsContaining.js
+SF:dist\findWordsContaining.js
 FN:2,findWordsContaining
 FN:4,(anonymous_1)
 FNF:2
@@ -150,7 +150,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:dist/interpret.js
+SF:dist\interpret.js
 FN:1,interpret
 FNF:1
 FNH:1
@@ -162,7 +162,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:dist/maxWidthOfVerticalArea.js
+SF:dist\maxWidthOfVerticalArea.js
 FN:1,maxWidthOfVerticalArea
 FN:3,(anonymous_1)
 FN:3,(anonymous_2)
@@ -182,7 +182,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:dist/removeDuplicates.js
+SF:dist\removeDuplicates.js
 FN:2,(anonymous_0)
 FNF:1
 FNH:1
@@ -207,7 +207,7 @@ BRF:4
 BRH:3
 end_of_record
 TN:
-SF:dist/removeElement.js
+SF:dist\removeElement.js
 FN:2,removeElement
 FN:3,(anonymous_1)
 FNF:2
@@ -229,7 +229,7 @@ BRF:2
 BRH:2
 end_of_record
 TN:
-SF:dist/removeOuterParentheses.js
+SF:dist\removeOuterParentheses.js
 FN:2,removeOuterParentheses
 FNF:1
 FNH:1
@@ -261,7 +261,7 @@ BRF:8
 BRH:7
 end_of_record
 TN:
-SF:dist/shuffle.js
+SF:dist\shuffle.js
 FN:1,shuffle
 FNF:1
 FNH:1
@@ -277,7 +277,7 @@ BRF:0
 BRH:0
 end_of_record
 TN:
-SF:dist/threeSum.js
+SF:dist\threeSum.js
 FN:2,threeSum
 FN:7,(anonymous_1)
 FNF:2
@@ -326,7 +326,7 @@ BRF:12
 BRH:12
 end_of_record
 TN:
-SF:dist/twoSum.js
+SF:dist\twoSum.js
 FN:1,(anonymous_0)
 FNF:1
 FNH:1
